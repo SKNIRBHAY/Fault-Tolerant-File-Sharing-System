@@ -52,13 +52,15 @@ Steps to run.
 ** PLEASE CHECK DEMO VIDEO (Video_for_project_Fault_Tolerant_File_Sharing_System) FOR BETTER UNDERSTANDING OF THE PROJECT WORKING **
 
 References :- 
-1.	 https://en.wikipedia.org/wiki/Clustered_file_system#Distributed_file_systems 
 
-2.	 http://sce.uhcl.edu/helm/rationalunifiedprocess/process/workflow/ana_desi/co_cncry.  htm 
-3.	 http://www.cs.dartmouth.edu/~campbell/cs50/socketprogramming.html 
+1. https://en.wikipedia.org/wiki/Clustered_file_system#Distributed_file_systems 
 
-4.	 http://beej.us/guide/bgnet/output/print/bgnet_A4.pdf 
+2. http://sce.uhcl.edu/helm/rationalunifiedprocess/process/workflow/ana_desi/co_cncry.htm
 
-5.	 http://www.highteck.net/EN/Application/Application_Layer_Functionality_and_Protocols.html 
+3. http://www.cs.dartmouth.edu/~campbell/cs50/socketprogramming.html 
 
-6.	 http://www.01.ibm.com/support/docview.wss?uid=nas8N1013578
+4. http://beej.us/guide/bgnet/output/print/bgnet_A4.pdf 
+
+5. http://www.highteck.net/EN/Application/Application_Layer_Functionality_and_Protocols.html 
+
+6. http://www.01.ibm.com/support/docview.wss?uid=nas8N1013578
