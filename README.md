@@ -59,6 +59,6 @@ References :-
 
 4.	 http://beej.us/guide/bgnet/output/print/bgnet_A4.pdf 
 
-5.	 http://www.highteck.net/EN/Application/Application_Layer_Functionality_and_Prot  ocols.html 
+5.	 http://www.highteck.net/EN/Application/Application_Layer_Functionality_and_Protocols.html 
 
-6.	 http://www­01.ibm.com/support/docview.wss?uid=nas8N1013578 
+6.	 http://www.01.ibm.com/support/docview.wss?uid=nas8N1013578
